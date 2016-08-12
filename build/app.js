@@ -65,7 +65,7 @@
 	var App = function App(props) {
 	  return _react2.default.createElement(
 	    'div',
-	    null,
+	    { style: { maxWidth: "650px", margin: "5% auto 0 auto" } },
 	    _react2.default.createElement(
 	      'h1',
 	      { style: { textAlign: 'center' } },
@@ -108,7 +108,7 @@
 	      null,
 	      _react2.default.createElement(
 	        'a',
-	        { href: 'www.cider.wsu.edu' },
+	        { href: 'http://www.cider.wsu.edu' },
 	        'www.cider.wsu.edu'
 	      )
 	    ),
@@ -119,6 +119,16 @@
 	        'a',
 	        { href: 'http://ext100.wsu.edu/maritimefruit/wp-content/uploads/sites/36/2016/05/CiderJuiceAnalysis.pdf' },
 	        ' Data Published on 5/2016'
+	      )
+	    ),
+	    _react2.default.createElement(
+	      'p',
+	      null,
+	      'Digital Data Visualization by ',
+	      _react2.default.createElement(
+	        'a',
+	        { href: 'http://www.fugalfunkster.com' },
+	        'Matthew Hoselton'
 	      )
 	    )
 	  );
