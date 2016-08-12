@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import Graph    from './components/graph.js';
 
 const App = props => (
-  <div>
+  <div style={{maxWidth: "650px", margin: "5% auto 0 auto"}}>
     <h1 style={{textAlign: 'center'}}>WSU Extension Cider Apple Data</h1>
     <h2 style={{textAlign: 'center'}}>Juice Analysis of Varietal Ciders in Western Washington</h2>
     <Graph/>
@@ -16,8 +16,9 @@ concentration (&deg;Brix), pH, specific gravity (not shown), malic acid (g.L<sup
     <div>C. Miles, E. Scheenstra, A. Zimmerman, T. Alexander, and J. King</div>
     <div>WSU Mount Vernon NWREC</div>
     <div> 16650 State Route 536, Mount Vernon, WA 98273</div>
-    <div><a href="www.cider.wsu.edu">www.cider.wsu.edu</a></div>
+    <div><a href="http://www.cider.wsu.edu">www.cider.wsu.edu</a></div>
     <p><a href="http://ext100.wsu.edu/maritimefruit/wp-content/uploads/sites/36/2016/05/CiderJuiceAnalysis.pdf"> Data Published on 5/2016</a></p>
+    <p>Digital Data Visualization by <a href="http://www.fugalfunkster.com">Matthew Hoselton</a></p>
   </div>
 );
 
