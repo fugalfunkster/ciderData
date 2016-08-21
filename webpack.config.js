@@ -68,7 +68,7 @@ if (process.env.npm_lifecycle_event === 'build') {
     {
       devtool: 'source-map',
       plugins: [
-        new webpack.DefinePlugin({'process.env.NODE_ENV': 'production'}),
+        new webpack.DefinePlugin({'process.env' : {'NODE_ENV': "'production'"}}),
         new CleanWebpackPlugin([PATHS.build], {root: process.cwd()}),
         new webpack.optimize.UglifyJsPlugin({ compress: {warnings: false}})
       ]
