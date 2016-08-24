@@ -14,7 +14,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "American Forestier",
@@ -31,7 +32,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Bedan de Parts",
@@ -48,7 +50,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Blanc Mollet",
@@ -65,7 +68,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Semi\nUpright",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Bouteville",
@@ -82,7 +86,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Sem\nSpreadi ng",
     "Grower\nFriendly'": "Semi",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Bramley's Seedling",
@@ -99,7 +104,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Bramtot",
@@ -116,7 +122,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Breakwell Seedling",
@@ -133,7 +140,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Brown Snout",
@@ -150,7 +158,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Brown Thorn",
@@ -167,7 +176,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nSpreadi ng",
     "Grower\nFriendly'": "Semi",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Brown's Apple",
@@ -184,7 +194,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Bulmer's Norman",
@@ -201,7 +212,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Campfield",
@@ -218,7 +230,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Upright",
     "Grower\nFriendly'": "Semi",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Cap of Liberty",
@@ -235,7 +248,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Semi Upright",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Chisel Jersey",
@@ -252,7 +266,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Cimitiere",
@@ -269,7 +284,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Court Pendu Rose",
@@ -286,7 +302,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Crow Egg",
@@ -303,7 +320,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Dabinett",
@@ -320,7 +338,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Domaines",
@@ -337,7 +356,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Doux Normandie",
@@ -354,7 +374,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Dymock Red",
@@ -371,7 +392,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Fillbarrel",
@@ -388,7 +410,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Finkenwerder Herbstprinz",
@@ -405,7 +428,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Semi",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Foxwhelp",
@@ -422,7 +446,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Frequin Rouge",
@@ -439,7 +464,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Golden Russet",
@@ -456,7 +482,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Granniwinkle",
@@ -473,7 +500,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semih Uprigt",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "N\n2 May"
+    "Alternate\nBearing": "N\n2 May",
+    "checked": true
   },
   {
     "Cultivar": "Gravenstein, Red Worthen",
@@ -490,7 +518,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Grimes Golden",
@@ -507,7 +536,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Grindstone",
@@ -524,7 +554,8 @@ module.exports = [
     "Blind\nwood'": 4,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Harrison",
@@ -541,7 +572,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Upright",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Harry Masters' Jersey",
@@ -558,7 +590,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Hewes Virginia Crab",
@@ -575,7 +608,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Upright",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Jouveaux",
@@ -592,7 +626,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Uprigh Semi\nt",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Kermerrien",
@@ -609,7 +644,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Kingston Black",
@@ -626,7 +662,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Lambrooke Pippin",
@@ -643,7 +680,8 @@ module.exports = [
     "Blind\nwood'": 3.5,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Major",
@@ -660,7 +698,8 @@ module.exports = [
     "Blind\nwood'": 1.5,
     "Growth\nHabit": "Semi\nUprig ht",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Marie Menard",
@@ -677,7 +716,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Marin Oufroy",
@@ -694,7 +734,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Maude",
@@ -711,7 +752,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Medaille D'Or",
@@ -728,7 +770,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Semi\nUpright",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Mettais",
@@ -745,7 +788,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Semi ht\nUpr igi",
     "Grower\nFriendly'": "Sem",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Michelin",
@@ -762,7 +806,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Uprigh Semi\nt",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Mott Pink",
@@ -779,7 +824,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Muscadet de Dieppe",
@@ -796,7 +842,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Muscat de Berney",
@@ -813,7 +860,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nUprigh t",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Nehou",
@@ -830,7 +878,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Peau de Vache",
@@ -847,7 +896,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Redstreak !*!",
@@ -864,7 +914,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Reine des Natives",
@@ -881,7 +932,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Reine des Pommes",
@@ -898,7 +950,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Ribston Pippin",
@@ -915,7 +968,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Ross Nonpareil",
@@ -932,7 +986,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Roxbury Russet",
@@ -949,7 +1004,8 @@ module.exports = [
     "Blind\nwood'": 3.5,
     "Growth\nHabit": "Semi\nUpright",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Royal Jersey",
@@ -966,7 +1022,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Uprig Semiht",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Smith's Cider",
@@ -983,7 +1040,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nUprigh t",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Stembridge Jersey",
@@ -1000,7 +1058,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Stoke Red",
@@ -1017,7 +1076,8 @@ module.exports = [
     "Blind\nwood'": "",
     "Growth\nHabit": "",
     "Grower\nFriendly'": "",
-    "Alternate\nBearing": ""
+    "Alternate\nBearing": "",
+    "checked": true
   },
   {
     "Cultivar": "Sweet Alford",
@@ -1034,7 +1094,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Sweet Coppin",
@@ -1051,7 +1112,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "semi",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   },
   {
     "Cultivar": "Taliaferro",
@@ -1068,7 +1130,8 @@ module.exports = [
     "Blind\nwood'": 4,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "N",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Taylor's",
@@ -1085,7 +1148,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Tom Putt",
@@ -1102,7 +1166,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Track Zero (Ross Sdlg.)",
@@ -1119,7 +1184,8 @@ module.exports = [
     "Blind\nwood'": 1,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Tramlett's, Geneva'",
@@ -1136,7 +1202,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Vilberie",
@@ -1153,7 +1220,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Whidbey",
@@ -1170,7 +1238,8 @@ module.exports = [
     "Blind\nwood'": 2.5,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Semi"
+    "Alternate\nBearing": "Semi",
+    "checked": true
   },
   {
     "Cultivar": "Yarlington Mill",
@@ -1187,7 +1256,8 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "N"
+    "Alternate\nBearing": "N",
+    "checked": true
   },
   {
     "Cultivar": "Zabergau Reinette",
@@ -1204,6 +1274,7 @@ module.exports = [
     "Blind\nwood'": 2,
     "Growth\nHabit": "Semi\nSpreading",
     "Grower\nFriendly'": "Y",
-    "Alternate\nBearing": "Y"
+    "Alternate\nBearing": "Y",
+    "checked": true
   }
 ];

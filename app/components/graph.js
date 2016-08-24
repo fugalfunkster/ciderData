@@ -44,7 +44,7 @@ const Graph = ({data, legend}) => (
     </VictoryLabel>
     
     <VictoryScatter
-      data={data}
+      data={data.filter(t => (t.checked === true))}
       x={(data) => data[legend.xAxisLabel]}
       y={(data) => data[legend.yAxisLabel]}
       style={{

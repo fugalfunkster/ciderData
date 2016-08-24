@@ -1,11 +1,10 @@
 import { combineReducers } from 'redux';
-import ciderData from '../data/cider.js';
+import TreeDataReducer from './reducer_tree_data';
 import LegendReducer from './reducers_legend';
 import CurrentTreeReducer from './reducer_current_tree';
 
 const rootReducer = combineReducers({
-  data: (state = ciderData) => state,
-  selectedTrees: (state = {}) => state,
+  data: TreeDataReducer,
   currentTree: CurrentTreeReducer,
   legend: LegendReducer
 });
