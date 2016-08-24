@@ -11,6 +11,8 @@ class TreeSelector extends React.Component{
     return (
       <div style={{margin: '5% auto'}}>
 
+        <h2 style={{textAlign: 'center'}}>Select Trees to Graph</h2>
+        
         <div style={{textAlign: 'center'}}>
           <button onClick={this.props.checkAll}>
             All
@@ -32,8 +34,7 @@ class TreeSelector extends React.Component{
           </button>
         </div>
         
-        <div style={{display: 'flex', maxHeight: '500px',
-                     marginTop: '5%', border: 'solid 1px black',
+        <div style={{display: 'flex', height: '35em', marginTop: '5%', 
                      flexDirection: 'column', flexWrap: 'wrap',
                      justifyContent: 'flex-start',
                      alignContent: 'space-around'}}>
