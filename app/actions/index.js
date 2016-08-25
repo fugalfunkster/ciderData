@@ -55,3 +55,10 @@ export function onlyCheckSharps() {
     type: 'ONLY_CHECK_SHARPS',
   };
 }
+
+export function blendVariety(variety) {
+  return {
+    type: 'BLEND',
+    payload: variety
+  };
+}

@@ -843,7 +843,8 @@ module.exports = [
     "Growth\nHabit": "Spreading",
     "Grower\nFriendly'": "N",
     "Alternate\nBearing": "Semi",
-    "checked": true
+    "checked": true,
+    "liters" : 5
   },
   {
     "Cultivar": "Muscat de Berney",

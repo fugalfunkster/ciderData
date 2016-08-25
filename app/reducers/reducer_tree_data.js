@@ -46,6 +46,18 @@ export default function(state = INITIAL_STATE, action) {
                                t["Tannin % (Mean)"] < .2 )
                                ? true
                                : false}));
+  case 'BLEND':
+    console.log(action.payload.target);
+    const variety = state.filter(function(t, i) {
+      if (t.Cultivar === action.payload.target.id) {
+        return true;
+      }
+      return false;
+      });
+    const ind = state.indexOf(variety[0]);
+    return [...state.slice(0, ind),
+            {...state[ind], liters: parseInt(action.payload.target.value)},
+           ...state.slice(ind + 1)];
   default:  
     return state;
   }

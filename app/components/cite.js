@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Cite = () => (
-  <div>
+  <div style={{margin: '5% auto'}}>
     <p style={{lineHeight: 1.2}}>
       Apples are categorized for cider making based on their tannin and acid contents. At harvest, 15-25 ripe fruit were collected for each cultivar. From 2002 to 2012, fruit were milled and pressed in a basket cider press. After 2013 fruit samples were chopped in a shredder and pressed in a bladder press. Juice samples were collected in 500 mL plastic bottles and analyzed for soluble solids concentration (&deg;Brix), pH, specific gravity (not shown), malic acid (g.L<sup>-1</sup>), and tannins (%).
     </p>

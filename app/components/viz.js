@@ -6,7 +6,7 @@ import Graph from './graph.js';
 import CultivarInfo from './cultivarInfo';
 
 const Viz = props => (
-  <div>
+  <div style={{margin: '5% auto'}}>
     <Selector />
     <div style={{display: 'flex', minHeight: '500px', justifyContent: 'space-around'}}>
       <Graph data={props.data} legend={props.legend}/>
