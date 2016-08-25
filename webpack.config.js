@@ -81,6 +81,7 @@ if (process.env.npm_lifecycle_event === 'build') {
     { devtool: 'eval-source-map',
       devServer: {
         historyApiFallback: true,
+        //contentBase: './',
         hot: true,
         inline: true,
         stats: 'errors-only',
