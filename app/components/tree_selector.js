@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import { Link } from 'react-router';
 
 import { checkTree, checkAll, uncheckAll,
         onlyCheckSweets, onlyCheckBittersweets,
@@ -10,7 +11,6 @@ class TreeSelector extends React.Component{
   render() {
     return (
       <div style={{margin: '5% auto'}}>
-
         <h2 style={{textAlign: 'center'}}>Select Trees to Graph</h2>
         
         <div style={{textAlign: 'center'}}>

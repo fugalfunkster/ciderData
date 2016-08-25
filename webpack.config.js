@@ -24,7 +24,7 @@ const common = {
   output: {
     path: PATHS.build,
     // for deployment to gh-pages:
-    publicPath: '/ciderData/',
+    publicPath: '/',
     filename: '[name].js'
   },
   module: {
