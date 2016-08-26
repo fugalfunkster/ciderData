@@ -17,8 +17,8 @@ class Blender extends Component {
                        id={t.Cultivar}
                        onChange={this.props.blendVariety}/>
               </td>
-              <td>{ t['Tannin % (Mean)']}</td>
-              <td>{ t['Malic Acid g/I (Mean)']}</td>
+              <td>{ t['Tannin % (Mean)']} g/L</td>
+              <td>{ t['Malic Acid g/I (Mean)']} g/L</td>
               <td>{ this.convertBrixToSG(t['°Brix (Mean)'])
                     .toFixed(3) }</td>
               <td>{ ((t.liters * 100 || 0) / totalVolume).toFixed(0)} %</td> 
@@ -57,7 +57,7 @@ class Blender extends Component {
     const totals = this.calculateTotals();
     
     return (
-      <div style={{margin: '5% auto'}}>
+      <div style={{margin: '5% auto', maxWidth: '1000px'}}>
         <table>
           <Head />
           <tbody>

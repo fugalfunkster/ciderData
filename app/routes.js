@@ -9,7 +9,7 @@ import Cite from './components/cite';
 
 export default (
   <Route path="/" component={App} >
-    <IndexRoute component={Viz} />
+    <Route path="viz" component={Viz} />
     <Route path="select" component={TreeSelector} />
     <Route path="blend" component={Blender} />
     <Route path="cite" component={Cite} />

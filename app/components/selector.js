@@ -4,7 +4,8 @@ import { connect } from 'react-redux';
 import { onAxisChange } from '../actions/index';
 
 const Selector = ({onAxisChange}) => (
-    <form onChange={onAxisChange} style={{textAlign: 'center'}}>
+    <form className={'axisSelector'} style={{textAlign: 'center'}} onChange={onAxisChange} >
+      <div>
       <span style={{padding: '2%'}}>X Axis:</span>
       <select name="X" defaultValue="Tannin % (Mean)">
         <option value="Tannin % (Mean)">Tannin % (Mean)</option>
@@ -20,6 +21,7 @@ const Selector = ({onAxisChange}) => (
         <option value="°Brix (Mean)">°Brix (Mean)</option>
         <option value="pH (Mean)">pH (Mean)</option>
       </select>
+    </div>
     </form>
 );
 

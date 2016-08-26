@@ -4,9 +4,9 @@ const Head = () => (
     <thead>
       <tr>
         <th>Cultivar Name</th>
-        <th>Quantity (L)</th>
-        <th>Tannins (g/L)</th>
-        <th>Malic Acid (g/L)</th>
+        <th>Liters in Blend</th>
+        <th>Tannins</th>
+        <th>Malic Acid</th>
         <th>Sugar (SG)</th>
         <th>Percent of Blend</th>
       </tr>

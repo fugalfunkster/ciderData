@@ -46,7 +46,9 @@ const common = {
     ]
   },
   plugins: [
-    new HtmlWebpackPlugin({ title: 'Cider Apple Data' }), // Title of the index.html page for our app
+    new HtmlWebpackPlugin({inject: true,
+                           title: 'Cider Apple Data',
+                           template: 'index.html' }), // Title of the index.html page for our app
     new ExtractTextPlugin('style.css', { allChunks: true })
   ],
   postcss: function () {

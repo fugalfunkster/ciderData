@@ -1,5 +1,13 @@
 body {
-  background-color: #f6f2ee;
+  background-color: #EFECCA;
+  font-family: 'Sorts Mill Goudy', serif;
+}
+
+h1 {
+  text-align: center; 
+  font-family: 'Linden Hill', serif;
+  font-size: 4em;
+  color: #931621
 }
 
 sup, sub {
@@ -9,4 +17,32 @@ sup, sub {
 }
 sub { 
   top: 0.4em; 
+}
+
+.app {
+  margin: 5% auto 0 auto
+}
+
+table {
+  padding: .5em;
+  border: 1em solid #AB947E;
+  background-color: #9EBC9E;
+  margin: 0 auto;
+                        
+}
+
+thead {
+  text-align: center;
+  font-size: 1.2em                
+}
+
+td {
+  padding: .33em 1em;
+  border: solid #AB947E 1px;
+  font-size: 1em;
+}
+
+tfoot {
+  background-color: #258EA6;
+  font-size: 1.2em
 }

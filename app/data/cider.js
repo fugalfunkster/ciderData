@@ -844,7 +844,6 @@ module.exports = [
     "Grower\nFriendly'": "N",
     "Alternate\nBearing": "Semi",
     "checked": true,
-    "liters" : 5
   },
   {
     "Cultivar": "Muscat de Berney",
