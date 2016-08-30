@@ -1,0 +1,9 @@
+* WSU Cider Apple Data
+
+** Description
+This interactive graph helps cider makers learn about the characteristics of different cider apple varieties. The most recent branch (router), includes a component that lets users blend different apples and see inforamtion about the resulting blend.
+
+Written with Victory.js, React, React Router, and Redux.
+
+** View 
+http://www.fugalfunkster.com/ciderData/
